@@ -1,4 +1,4 @@
-* Examples for integrating Protracker 2 MOD files in Amiga C programs
+# Examples for integrating Protracker 2 MOD files in Amiga C programs
 
 These are the example programs used in the Youtube Video
 "Adding Tracker MODs to your Amiga games in C"
